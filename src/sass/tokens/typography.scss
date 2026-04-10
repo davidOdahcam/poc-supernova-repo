@@ -1,0 +1,885 @@
+
+.typographyWebTitleH1 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 500;
+  font-size: $measureFontSizeTypographyFontSize;
+  line-height: $measureLineHeightLineHeight;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebTitleH2 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebTitleH3 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebTitleH4 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSubtitleLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSubtitleRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSubtitleSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebBodyRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebBodySemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebBodyLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebBodyRegularUppercase 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebCaptionRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebCaptionRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSmallRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileTitleH1 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileTitleH2 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSubtitleRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSubtitleLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSubtitleSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileBodyRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileBodyLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileBodySemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileCaptionRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSmallSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 9px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSmallRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSmallSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSmallRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileCaptionSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileBodyRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebSubtitleRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSubtitleRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileCaptionRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyMobileSmallRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+.typographyWebCaptionBold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebTitleH1 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 500;
+  font-size: $measureFontSizeTypographyFontSize;
+  line-height: $measureLineHeightLineHeight;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebTitleH2 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebTitleH3 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebTitleH4 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSubtitleLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSubtitleRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSubtitleSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebBodyRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebBodySemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebBodyLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebBodyRegularUppercase 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebCaptionRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebCaptionRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSmallRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileTitleH1 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileTitleH2 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSubtitleRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSubtitleLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSubtitleSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileBodyRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileBodyLight 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileBodySemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileCaptionRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSmallSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 9px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSmallRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSmallSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSmallRegular 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileCaptionSemibold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileBodyRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebSubtitleRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSubtitleRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileCaptionRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyMobileSmallRegularUppercase 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
+@mixin typographyWebCaptionBold 
+{ 
+  
+  font-family: "Onest";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0px;
+  
+  text-indent: 0px; 
+}    
+
